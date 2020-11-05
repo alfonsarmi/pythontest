@@ -1,5 +1,5 @@
 import pandas as pd
-import ast_exportersa
+import ast_exporter
 
 class Test:
     def do_something(a):

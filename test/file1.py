@@ -1,7 +1,7 @@
 import folder.file2
 import folder.file2 as file2Alias
 import file2Alias as file3Alias
-from folder.file2 import File2Class, File2Class2 as Pepino
+from folder.file2 import File2Class.print_file2_class as nuclear, File2Class2 as Pepino
 from folder.file2 import outside_call
 from folder.file2 import outside_call as outsidecallalias
 
@@ -18,6 +18,7 @@ File2Class.print_file2_class()
 
 file2Alias.outside_call()
 file3Alias.outside_call()
+nuclear()
 
 class File1Class:
 
