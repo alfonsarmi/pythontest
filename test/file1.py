@@ -18,7 +18,6 @@ File2Class.print_file2_class()
 
 file2Alias.outside_call()
 file3Alias.outside_call()
-nuclear()
 
 class File1Class:
 
