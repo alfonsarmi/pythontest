@@ -1,4 +1,4 @@
-import pandas as pd
+importr pandas as pd
 import ast_exporter
 
 class Test:
